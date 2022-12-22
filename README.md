@@ -1,4 +1,4 @@
-# Projet-Classification-Election-USA-SDA-ASSIENIN
+# Projet-Classification-Election-USA-SDA-ASSIENIN-BANTO
 
 The objective of this project is to predict the winning party of the 2020 presidential elections in the United States based on socio-demographic data. It is therefore a binary classification project.
 
